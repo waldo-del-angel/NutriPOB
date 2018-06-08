@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NutriPOB</string>
+    <string name="tOvino">Ovinos</string>
+    <string name="txt_dieta1_bobino">Este plan de alimentación está diseñado para el mejoramiento de carne y grasa muscular</string>
+    <string name="txt_dieta1_ovino">Este plan de alimentación está diseñado para el mejoramiento de carne y grasa muscular</string>
+    <string name="txt_dieta1_porcino">Elaborado para favorecer un crecimiento adecuado, permitiendo buen desarrollo muscular</string>
+    <string name="tBobinos">Bovinos</string>
+    <string name="tPorcinos">Porcinos</string>
+    <string name="subTPorcinos">Dieta óptima de porcinos</string>
+    <string name="subTOvinos">Dieta óptima de ovinos</string>
+    <string name="subTBovinos">Dieta óptima para bovinos</string>
+</resources>
